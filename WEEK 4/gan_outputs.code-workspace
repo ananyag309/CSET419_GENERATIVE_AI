@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "gan_outputs",
+			"path": "../../../../../Downloads/gan_outputs"
+		},
+		{
+			"name": "CSET419_GENERATIVE_AI",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
